@@ -1,0 +1,165 @@
+[
+  {
+    "file": "raw/2026-11-13_perch-preening_IMG_2946.MOV",
+    "original_name": "IMG_2946.MOV",
+    "recorded": "2026-11-13T21:50:20-07:00",
+    "duration_s": 19.07,
+    "orientation": "vertical",
+    "resolution": "3840x2160",
+    "audio": "very quiet; one faint phrase, Gidget (Leon's voice is on none of the clips)",
+    "summary": "Gidget on her cage top: looks at camera with head tilt and foot raised, then preens and scratches her neck, ending with an alert look back into the lens.",
+    "tags": [
+      "gidget",
+      "perch",
+      "preening",
+      "scratching",
+      "head tilt",
+      "foot up",
+      "looking at camera",
+      "fluffed feathers",
+      "vertical",
+      "silent"
+    ],
+    "best_moments": [
+      "0:01-0:05 camera eye contact + head tilt",
+      "0:10-0:17 full preen/neck scratch",
+      "0:18 alert look into lens"
+    ],
+    "description": "descriptions/2026-11-13_perch-preening_IMG_2946.md",
+    "thumbs": [
+      "thumbs/2026-11-13_perch-preening_IMG_2946_poster.jpg",
+      "thumbs/2026-11-13_perch-preening_IMG_2946_contact.jpg"
+    ],
+    "used_in": [],
+    "transcript": [
+      {
+        "start": 0.0,
+        "end": 7.0,
+        "speaker": "Gidget",
+        "text": "Oh, I'm sorry. / Oh, that's really good. (two models disagree)",
+        "confidence": "low"
+      }
+    ],
+    "narrative": "Gidget gives the camera her best head tilt, holds up one foot like she's about to make a point, then gets lost in a full preening session. She ends it by snapping back to stare straight into the lens."
+  },
+  {
+    "file": "raw/2026-11-13_preening-then-talks-to-camera_IMG_2947.MOV",
+    "original_name": "IMG_2947.MOV",
+    "recorded": "2026-11-13T21:52:58-07:00",
+    "duration_s": 57.82,
+    "orientation": "vertical",
+    "resolution": "3840x2160",
+    "audio": "quiet; Gidget says 'Good girl!' (confirmed by Leon) and likely more",
+    "summary": "Long fluff-and-preen, then she turns to the camera and says 'Good girl!', keeps talking with beak open, lifts a foot, and leans into the lens.",
+    "tags": [
+      "gidget",
+      "preening",
+      "fluffed feathers",
+      "head scratch",
+      "head tilt",
+      "beak open",
+      "foot up",
+      "direct eye contact",
+      "vertical",
+      "long",
+      "gidget speaks",
+      "says good girl",
+      "mimicry"
+    ],
+    "best_moments": [
+      "0:32-0:46 turns to face camera, head tilt, beak open",
+      "0:48-0:57 foot up, scratch, leans into lens"
+    ],
+    "transcript": [
+      {
+        "start": 30,
+        "end": 32,
+        "speaker": "Gidget",
+        "text": "Good girl!",
+        "confidence": "confirmed by Leon"
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "speaker": "Gidget",
+        "text": "Oh, my girl.",
+        "confidence": "low"
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "speaker": "Gidget",
+        "text": "(profane phrase heard; unverified)",
+        "confidence": "low"
+      }
+    ],
+    "narrative": "Gidget spends half a minute in a full fluff-and-preen session, then turns around and tells the camera 'good girl!' in her own voice. Head tilt, beak open, foot up, and a very serious stare to finish.",
+    "description": "descriptions/2026-11-13_preening-then-talks-to-camera_IMG_2947.md",
+    "thumbs": [
+      "thumbs/2026-11-13_preening-then-talks-to-camera_IMG_2947_poster.jpg"
+    ],
+    "used_in": []
+  },
+  {
+    "file": "raw/2026-11-13_looks-around-preens-then-stares_IMG_2948.MOV",
+    "original_name": "IMG_2948.MOV",
+    "recorded": "2026-11-13T21:55:43-07:00",
+    "duration_s": 33.71,
+    "orientation": "vertical",
+    "resolution": "3840x2160",
+    "audio": "quiet; repeated boo/whoop sounds, clicks and spoken phrases, all Gidget; Leon's voice is on none of the clips",
+    "summary": "Chatty start (beak open, repeated sounds), looks away, long blink, quick preen, then calm curious head-tilt stare at the camera.",
+    "tags": [
+      "gidget",
+      "vocalizing",
+      "whoop",
+      "clicking",
+      "looking around",
+      "blink",
+      "preening",
+      "head tilt",
+      "curious",
+      "vertical"
+    ],
+    "best_moments": [
+      "0:00-0:12 sounds + looking at camera/away",
+      "0:20-0:33 calm curious stare"
+    ],
+    "transcript": [
+      {
+        "start": 0,
+        "end": 6,
+        "speaker": "Gidget",
+        "text": "boo boo boo boo",
+        "confidence": "low"
+      },
+      {
+        "start": 6,
+        "end": 9,
+        "speaker": "Gidget",
+        "text": "Mm-hmm, this is a girl.",
+        "confidence": "low"
+      },
+      {
+        "start": 18,
+        "end": 20,
+        "speaker": "Gidget",
+        "text": "Oh, my girl.",
+        "confidence": "low"
+      },
+      {
+        "start": 22,
+        "end": 23,
+        "speaker": "Gidget",
+        "text": "Yes.",
+        "confidence": "low"
+      }
+    ],
+    "narrative": "Gidget gets chatty, glances off to the side, takes a long relaxed blink, dives into a quick preen, and then settles in to give the camera that curious head-tilt stare.",
+    "description": "descriptions/2026-11-13_looks-around-preens-then-stares_IMG_2948.md",
+    "thumbs": [
+      "thumbs/2026-11-13_looks-around-preens-then-stares_IMG_2948_poster.jpg"
+    ],
+    "used_in": []
+  }
+]
